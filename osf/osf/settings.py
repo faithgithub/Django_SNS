@@ -45,10 +45,10 @@ else:
     # Local 本地调试用，便于导出数据库,根据本地MYSQL数据库填写下面参数
     MYSQL_DB = 'osf'
     MYSQL_USER = 'root'
-    MYSQL_PASS = ''
-    MYSQL_HOST_M = '127.0.0.1'
-    MYSQL_HOST_S = '127.0.0.1'
-    MYSQL_PORT = '3306'
+    MYSQL_PASS = '3mW70286ZQSE'
+    MYSQL_HOST_M = 'infra.zeabur.com'
+    MYSQL_HOST_S = 'infra.zeabur.com'
+    MYSQL_PORT = '32451'
 
 DATABASES = {
     'default': {
